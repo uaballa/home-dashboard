@@ -45,9 +45,9 @@ I've decided to get acquainted with Grafana, following this beautiful example:\
 - [ ] Emergency information
   * Krisinformation-app
 - [ ] Vehicle info
-  * 'Mina fordon'-app (nästa besiktning)
+  * 'Mina fordon'-app (next appointent for car inspection)
 - [ ] My ToDo-list (in Dropbox)
   * Scrollable
-- [ ] Router-status
+- [ ] Status and performance of my home router
 - [ ] Movies at the cinemas
   * Comming releases
