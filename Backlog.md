@@ -1,5 +1,6 @@
 # Introduction
-Let's try implementing a Grafana dashboard, following this beautiful example:\
+This is the backlog for my personal home dashboard.
+I've decided to get acquainted with Grafana, following this beautiful example:\
 [How to Set Up This Next-Level Personal Home Dashboard in Your Kitchen](https://grafana.com/blog/2019/10/29/how-to-set-up-this-next-level-personal-home-dashboard-in-your-kitchen/)
 
 ## Main characteristics of the dashboard
