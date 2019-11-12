@@ -25,12 +25,12 @@ Let's try implementing a Grafana dashboard, following this beautiful example:\
 - [ ] Local communications (buss, tram, metro, ..)
   * [SL-app](https://sl.se/)
   * Info about problems and cancelled tours
-  * Next buss/train to <default or selected destination>
+  * Next buss/train to the default or selected destination
 - [ ] Bank accounts
-  * Balans on my salary account
-  * Balans om my mother's credit card account
-    * Latest transactions
-  * Balans on my SEB account
+  * Balance on my salary account
+  * Balance om my mother's credit card account
+   * Latest transactions
+  * Balance on my SEB account
 - [ ] News
   * Latest news (header + scrollable test box)
   * Drop-down widget for selected online news paper or web site
